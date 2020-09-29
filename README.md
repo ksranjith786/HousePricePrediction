@@ -11,8 +11,8 @@ Welcome to the House Price Prediction Challenge, you will test your regression s
 Also, in this competition, you will get a lot of room for feature engineering and mastering advanced regression techniques such as Random Forest, Deep Neural Nets, and various other ensembling techniques.
 
 # Data Description
-Train.csv - 29451 rows x 12 columns
-Test.csv - 68720 rows x 11 columns
+Train.csv - 29451 rows x 12 columns<br>
+Test.csv - 68720 rows x 11 columns<br>
 Sample Submission - Acceptable submission format. (.csv/.xlsx file with 68720 rows)
  
 
